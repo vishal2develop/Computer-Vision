@@ -6,7 +6,7 @@
  
  # Note:
  
- Prior to running the script, download the GoogleNet Caffe Model from : http://dl.caffe.berkeleyvision.org/bvlc_googlenet.caffemodel
+ Prior to executing the script, download the GoogleNet Caffe Model from : http://dl.caffe.berkeleyvision.org/bvlc_googlenet.caffemodel
  
  # Usage
  
